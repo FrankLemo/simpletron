@@ -10,6 +10,7 @@
 using namespace std;
 
 #define MEM_SIZE 100
+#define MAX_SIZE 110
 
 struct regs {
 	int counter;
